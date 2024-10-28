@@ -147,11 +147,11 @@ where age>(select avg(age) from healthcare);
 ```
 
 ## Findings
-Findings
-1.**Patient Demographics**: Analysis of the patient population by age, gender, and region, helping identify the primary demographics receiving healthcare services.
-2.**Treatment Efficacy**:Identification of treatments with the highest success rates and any correlations between patient demographics and treatment outcomes.
-3.**Hospital Performance**:Monthly analysis of hospital admissions and discharges reveals peak times for healthcare services, aiding in resource planning.
-4.**Patient Insights**:Identification of top-spending patients, common ailments treated, and frequently used healthcare services.
+
+1. **Patient Demographics**: Analysis of the patient population by age, gender, and region, helping identify the primary demographics receiving healthcare services.
+2. **Treatment Efficacy**:Identification of treatments with the highest success rates and any correlations between patient demographics and treatment outcomes.
+3. **Hospital Performance**:Monthly analysis of hospital admissions and discharges reveals peak times for healthcare services, aiding in resource planning.
+4. **Patient Insights**:Identification of top-spending patients, common ailments treated, and frequently used healthcare services.
 
 ## Conclusion
 This project provides a well-rounded introduction to SQL for data analysts, covering database setup, data cleaning, EDA, and healthcare-focused SQL queries. The findings can assist healthcare providers in making data-driven decisions by understanding patient demographics, treatment outcomes, and healthcare trends.
