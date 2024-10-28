@@ -11,8 +11,8 @@ This project is designed to showcase SQL skills and techniques used by data anal
 
 1. **Set Up a Healthcare Database**: Create and populate a healthcare database with the provided data on patients, treatments, healthcare providers, and outcomes.
 2. **Data Cleaning**: Identify and clean any records with missing or null values to ensure data accuracy and reliability.
-3 **Exploratory Data Analysis (EDA)**: Perform basic EDA to understand the dataset, including distribution and relationships among variables.
-4.**Healthcare Analysis**: Use SQL to answer key business questions related to healthcare, patient demographics, treatment effectiveness, and hospital performance.
+3. **Exploratory Data Analysis (EDA)**: Perform basic EDA to understand the dataset, including distribution and relationships among variables.
+4. **Healthcare Analysis**: Use SQL to answer key business questions related to healthcare, patient demographics, treatment effectiveness, and hospital performance.
 
 ## Project Structure
 
