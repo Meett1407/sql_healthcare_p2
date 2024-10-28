@@ -3,6 +3,7 @@
 ## Project Overview
 
 **Project Title**: Healthcare Data Analysis
+
 **Level**: Beginner
 
 This project is designed to showcase SQL skills and techniques used by data analysts in the healthcare sector. It covers setting up a healthcare database, performing data cleaning, exploratory data analysis (EDA), and addressing healthcare-related business questions with SQL queries. This project is ideal for those starting in data analysis and wanting to gain SQL expertise in a healthcare setting.
