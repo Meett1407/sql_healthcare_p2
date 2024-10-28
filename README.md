@@ -169,6 +169,6 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 ### Stay Updated and Join the Community
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/meet-limbani-6258bb285/)
+- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/meet-limbani-6258bb285)
 
 Thank you for your support, and I look forward to connecting with you!
